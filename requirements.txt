@@ -1,0 +1,12 @@
+django
+django-filter
+django-ckeditor
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+celery
+redis
+gunicorn
+psycopg2-binary
+pillow
+python-decouple

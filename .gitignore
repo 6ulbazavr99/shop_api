@@ -1,0 +1,9 @@
+.idea
+media
+static
+venv
+.env
+**/migrations/*
+!**/migrations/__init__.py
+__pycache__/
+.vscode
